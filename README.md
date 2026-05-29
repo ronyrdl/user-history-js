@@ -1,4 +1,4 @@
-Weeks - JavaScript
+# Weeks - JavaScript
 
 Este repositorio contiene diferentes ejercicios y prácticas realizadas por semanas utilizando JavaScript, HTML y LocalStorage.
 
