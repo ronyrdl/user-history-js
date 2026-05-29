@@ -1,0 +1,16 @@
+{
+  "menu": [
+    {
+      "id": 3,
+      "product_name": "perros",
+      "product_price": "4000",
+      "description": "papas a la francesa y queso mozarela"
+    },
+    {
+      "product_name": "dasdsa",
+      "product_price": "222",
+      "description": "aasda",
+      "id": 4
+    }
+  ]
+}
